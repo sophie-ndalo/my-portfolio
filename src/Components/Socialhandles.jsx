@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaTwitterSquare, FaInstagram, FaEnvelope } from "
 
 function Socialhandles() {
   return (
-    <div className="social-links" style={{ marginLeft: "200px",marginTop: "20px", display: "flex" }}>
+    <div className="social-links" style={{ marginLeft: "200px", marginTop: "20px", display: "flex" }}>
       <a href="https://github.com/sophie-ndalo" target="_blank" rel="noopener noreferrer">
         <FaGithub style={{ color: "white" }} /> GitHub
       </a>
@@ -16,7 +16,7 @@ function Socialhandles() {
       <a href="https://www.instagram.com/yourinstagramusername" target="_blank" rel="noopener noreferrer">
         <FaInstagram style={{ color: "white" }} /> Instagram
       </a>
-      <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:davinndalo@yahoo.com" target="_blank" rel="noopener noreferrer">
         <FaEnvelope style={{ color: "white" }} /> Email
       </a>
     </div>
