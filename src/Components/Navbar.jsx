@@ -57,7 +57,7 @@ function Navbar() {
                     textAlign: "center",
                     marginTop: "-5px",
                   }}
-                  href="https://api.vercel.com/now/files/4edb418153e1070220400f0781b78ccdfbc22a6f/sophie%20cv%20.pdf"
+                  href="https://drive.google.com/file/d/1KSZJUKWaZ5pTvwrmFBlCQZDtdFm27cgN/view?usp=drive_link"
                   className="block py-2 pl-3 pr-4 text-white rounded md:hover-bg-transparent md:border-0 md:hover-text-blue-700 md:p-0 dark:text-white md:dark:hover-text-blue-500 dark:hover-bg-gray-700 dark:hover-text-white md:dark:hover-bg-transparent"
                 >
                   Resume
