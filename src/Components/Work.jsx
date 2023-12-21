@@ -54,7 +54,7 @@ function Work() {
             </li>
           </ul>
           <p className="text-white text-lg">
-            Built with React, our app emphasizes performance, scalability, and a clean user interface, creating an enjoyable shopping journey for users. It aims to cater to diverse customer needs, providing a convenient and reliable platform for online shopping.
+            Built with React, this app emphasizes performance, scalability, and a clean user interface, creating an enjoyable shopping journey for users. It aims to cater to diverse customer needs, providing a convenient and reliable platform for online shopping.
           </p>
         </div>
       </div>
