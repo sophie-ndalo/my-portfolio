@@ -5,7 +5,7 @@ function MyCv() {
     <div>
       <iframe
         title="My Resume"
-        src="https://drive.google.com/file/d/1KSZJUKWaZ5pTvwrmFBlCQZDtdFm27cgN/preview?embedded=true"
+        src="https://docs.google.com/document/d/11lJRqDW7jBySr-YRAIIYJZm-g3miU3aTUbZXGE9nRgI/preview?embedded=true"
         width="100%"
         height="1000px"
       ></iframe>
