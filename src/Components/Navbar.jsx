@@ -43,7 +43,7 @@ function Navbar() {
                 </ScrollLink>
               </li>
               {/* Resume link (external) */}
-              <li>
+              {/* <li>
                 <RouterLink // Using RouterLink for MyCv component
                   to="/mycv"
                   style={{
@@ -63,7 +63,7 @@ function Navbar() {
                 >
                   Resume
                 </RouterLink>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
