@@ -9,7 +9,7 @@ function About() {
         <h1 className="text-white text-3xl md:text-4xl lg:text-5xl font-bold">I build things for the web.</h1>
         <div className="w-full md:w-2/3 lg:w-1/2 mt-6">
           <p className="text-white text-lg">
-            Welcome to my portfolio! I'm an aspiring web developer with a passion for crafting digital solutions and a strong interest in AI. 
+            Welcome to my portfolio! I'm a web developer with a passion for crafting digital solutions and a strong interest in AI. 
             While I may be new to web development, my projects reflect my dedication to learning and growing in this field.
           I'm also on an exciting journey in Python, with the aim of venturing into the world of AI.
            My projects serve as a testament to my evolving skills as a developer and my commitment to continuous learning.
