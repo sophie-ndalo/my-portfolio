@@ -2,7 +2,7 @@ import React from "react";
 
 function Work() {
   return (
-    <div style={{fontFamily: "'Roboto Slab', serif", backgroundColor: "black" }}>
+    <div style={{fontFamily: "'Roboto Slab', serif", backgroundColor: "#87CEEB" }}>
       <div className="w-full md:w-2/3 lg:w-1/2 mt-6" style={{ margin: '0 auto', marginTop: "10px" }}>
         <p className="text-white text-lg">
           Welcome to my project showcase!
@@ -14,9 +14,8 @@ function Work() {
         </p>
         <div >
           <p>
-            Project Link:{" "}
             <a
-              style={{ color: "#87CEEB", marginLeft: "-85px" }}
+              style={{ color: "black", marginLeft: "-85px" }}
               href="https://e-commerce-pi-ruby.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
@@ -62,9 +61,8 @@ function Work() {
         </div>
         <div >
           <p>
-            Project Link:{" "}
             <a
-              style={{ color: "#87CEEB", marginLeft: "-85px" }}
+              style={{ color: "black", marginLeft: "-85px" }}
               href="https://errands-girl-app.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
