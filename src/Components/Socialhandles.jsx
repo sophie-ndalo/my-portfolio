@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaTwitterSquare, FaInstagram, FaEnvelope } from "
 
 function Socialhandles() {
   return (
-    <div className="flex flex-wrap justify-center gap-10 mt-20 mr-40">
+    <div className="flex flex-wrap justify-center gap-10 mt-20 mr-4000">
 
   <a href="https://github.com/sophie-ndalo" target="_blank" rel="noopener noreferrer"
     className="flex items-center py-1 px-2 rounded-lg text-blue-400 hover:bg-blue-100">

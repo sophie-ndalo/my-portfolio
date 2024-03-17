@@ -8,7 +8,7 @@ import { Element } from "react-scroll";
 
 function Portforlio() {
   return (
-    <div className="bg-black">
+    <div className="bg-black" style={{height: "1000px"}}>
 
 <Element name="navbar">
   <div>
@@ -26,14 +26,7 @@ function Portforlio() {
       <Element name="work">
         <div>
           {/* Content of your Work section */}
-          <Work />
-        </div>
-      </Element>
-
-      <Element name="contact">
-        <div>
-          {/* Content of your contact section */}
-          <Contact />
+          {/* <Work /> */}
         </div>
       </Element>
 

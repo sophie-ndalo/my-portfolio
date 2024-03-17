@@ -1,6 +1,7 @@
 import React from "react";
 import { Link as ScrollLink } from "react-scroll"; // Rename Link to ScrollLink
-import { Link as RouterLink } from "react-router-dom"; // Rename Link to RouterLink
+import { Link } from "react-router-dom"; // Rename Link to RouterLink
+import Work from "./Work";
 
 function Navbar() {
   return (
@@ -21,15 +22,12 @@ function Navbar() {
                 </ScrollLink>
               </li>
               <li className="mb-4">
-                <ScrollLink
-                  to="work"
-                  spy={true}
-                  smooth={true}
-                  duration={500}
+                <Link
+                  to="/work" // Define the route path to your Work component
                   className="block py-2 pl-3 pr-4 text-white rounded md:hover-bg-transparent md:border-0 md:hover-text-blue-700 md:p-0 dark:text-white md:dark:hover-text-blue-500 dark:hover-bg-gray-700 dark:hover-text-white md:dark:hover-bg-transparent"
                 >
                   Work
-                </ScrollLink>
+                </Link>
               </li>
               <li className="mb-4">
                 <ScrollLink
